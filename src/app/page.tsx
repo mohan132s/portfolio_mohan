@@ -229,7 +229,7 @@ export default function Portfolio() {
                     animate={{ y: 0 }}
                     transition={{ delay: 0.3, duration: 0.8, ease: "easeOut" }}
                   >
-                    <span className="inline-block mr-4">I'm</span>
+                    <span className="inline-block mr-4">I&apos;m </span>
                     <span className="inline-block bg-gradient-to-r from-purple-400 via-fuchsia-400 to-pink-400 bg-clip-text text-transparent">
                       Mohanasundaram S G
                     </span>
@@ -427,7 +427,7 @@ export default function Portfolio() {
                     transition={{ duration: 0.6, delay: 0.3 }}
                     viewport={{ once: true }}
                   >
-                    I'm a <span className="text-pink-400 font-medium">creative full-stack developer</span> with over 8
+                    I&apos;m  a <span className="text-pink-400 font-medium">creative full-stack developer</span> with over 8
                     years of experience crafting digital experiences that users love. My journey in tech began with a
                     curiosity about how things work, which evolved into a career building solutions that make a
                     difference.
@@ -455,7 +455,7 @@ export default function Portfolio() {
                     transition={{ duration: 0.6, delay: 0.5 }}
                     viewport={{ once: true }}
                   >
-                    When I'm not coding, you'll find me exploring new technologies, contributing to open-source
+                    When I&apos;m not coding, you'll find me exploring new technologies, contributing to open-source
                     projects, or mentoring aspiring developers.
                   </motion.p>
                 </div>
