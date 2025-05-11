@@ -22,7 +22,7 @@ export default function ContactForm() {
           Contact Information
         </h3>
         <p className="text-gray-300 mb-8 relative z-10">
-          I'm currently available for freelance work and full-time positions. If you have a project that needs some
+          I&apos;m currently available for freelance work and full-time positions. If you have a project that needs some
           creative touch, I'd love to hear about it!
         </p>
 
